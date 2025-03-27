@@ -69,8 +69,6 @@ Export options for further analysis
 Configuration
 Customize detection parameters in app.py:
 python
-# Detection sensitivity (0.01-0.5)
-contamination = 0.05  
 
 # Features to analyze (modify in preprocess_data function) 
 Project Structure
@@ -78,15 +76,15 @@ darkshield/
 
 ├── app.py
 
-├── templates/
+├── templates
 
 │   ├── analyze.html
 
 │   └── index2.html 
 
-├── uploads/ 
+├── uploads
 
-├── captures/
+├── captures
 
 ├── requirements.txt   
 
