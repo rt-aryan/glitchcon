@@ -32,8 +32,7 @@ DarkShield is a powerful network anomaly detection system that uses machine lear
 - pip package manager
 
 ### Setup
-
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/rt-aryan/darkshield.git
    cd darkshield
