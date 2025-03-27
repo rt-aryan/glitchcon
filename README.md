@@ -51,7 +51,6 @@ Configure Wireshark path (if needed):
 
 Edit app.py and update the find_tshark() function if your Wireshark installation is in a non-standard location
 
-Usage
 Run the application:
 python app.py
 
