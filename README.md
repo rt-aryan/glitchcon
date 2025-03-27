@@ -88,7 +88,7 @@ darkshield
 ├── requirements.txt   
 
 └── README.md             
-Screenshots
+
 ## Screenshots
 
 <p align="center">
@@ -98,7 +98,15 @@ Screenshots
   <img src="./assets/an2.png" alt="Analysis Results" width="45%">
 </p>
 
-Troubleshooting
+## PPT Link
+
+https://docs.google.com/presentation/d/1b4vkjzCF4VRac1qBRPf-IxMlRxKbYCkc/edit?usp=sharing&ouid=107890533107002627806&rtpof=true&sd=true
+
+## Demo Video Link
+
+https://drive.google.com/file/d/1E_p5_7VDXlxlrQupKH11vAVyfGCkyvaV/view?usp=sharing
+
+## Troubleshooting
 Issue: Tshark not found
 Solution: Install Wireshark or update the path in app.py
 
@@ -108,9 +116,9 @@ Solution: Ensure files are in CSV format and <10MB
 Issue: Visualization not loading
 Solution: Check browser console for errors and ensure JavaScript is enabled
 
-Contributing
+### Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-Contact
+### Contact
 For questions or support, please contact:
 Email : aryan.routray2023@vitstudent.ac.in
