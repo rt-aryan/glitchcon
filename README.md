@@ -1,8 +1,8 @@
 # DarkShield - Network Anomaly Detection System
 
-![DarkShield Logo](<div align="center">
+![DarkShield Logo]<div align="center">
   <img src="./assets/logo.webp" alt="Logo" width="40%">
-</div>)
+</div>
 
 DarkShield is a powerful network anomaly detection system that uses machine learning to identify suspicious network activity in real-time or from captured data.
 
