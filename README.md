@@ -46,6 +46,7 @@ source venv/bin/activate                    # On Windows use `venv\Scripts\activ
 Install dependencies:
 
 ```pip install -r requirements.txt```
+
 Configure Wireshark path (if needed):
 
 Edit app.py and update the find_tshark() function if your Wireshark installation is in a non-standard location
