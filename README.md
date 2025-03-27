@@ -100,7 +100,7 @@ Issue: Tshark not found
 Solution: Install Wireshark or update the path in app.py
 
 Issue: File upload fails
-Solution: Ensure files are in CSV format and <16MB
+Solution: Ensure files are in CSV format and <10MB
 
 Issue: Visualization not loading
 Solution: Check browser console for errors and ensure JavaScript is enabled
