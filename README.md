@@ -71,7 +71,7 @@ Customize detection parameters in app.py
 
 # Features to analyze (modify in preprocess_data function) 
 Project Structure
-darkshield/
+darkshield
 
 ├── app.py
 
