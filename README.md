@@ -36,6 +36,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/rt-aryan/darkshield.git
    cd darkshield
+```
 Create and activate a virtual environment:
 ```
 python -m venv venv
