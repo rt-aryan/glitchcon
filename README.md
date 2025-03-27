@@ -67,8 +67,7 @@ Interactive visualizations
 Export options for further analysis
 
 Configuration
-Customize detection parameters in app.py:
-python
+Customize detection parameters in app.py
 
 # Features to analyze (modify in preprocess_data function) 
 Project Structure
