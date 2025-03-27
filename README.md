@@ -69,7 +69,8 @@ Export options for further analysis
 Configuration
 Customize detection parameters in app.py
 
-# Project Structure
+# Features to analyze (modify in preprocess_data function) 
+Project Structure
 darkshield
 
 ├── app.py
