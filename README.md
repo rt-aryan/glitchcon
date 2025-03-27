@@ -89,8 +89,14 @@ darkshield
 
 └── README.md             
 Screenshots
-Main Interface
-Analysis Results
+## Screenshots
+
+<p align="center">
+  <img src="./assets/sc1.png" alt="Main Interface" width="45%">
+  <img src="./assets/sc2.png" alt="Main Interface" width="45%">
+  <img src="./assets/an1.png" alt="Analysis Results" width="45%">
+  <img src="./assets/an2.png" alt="Analysis Results" width="45%">
+</p>
 
 Troubleshooting
 Issue: Tshark not found
