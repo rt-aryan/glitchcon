@@ -1,6 +1,6 @@
 # DarkShield - Network Anomaly Detection System
 
-![DarkShield Logo]<div align="center">
+<div align="center">
   <img src="./assets/logo.webp" alt="Logo" width="40%">
 </div>
 
